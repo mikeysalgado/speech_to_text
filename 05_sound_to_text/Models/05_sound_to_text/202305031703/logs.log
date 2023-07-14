@@ -1,0 +1,38 @@
+2023-05-03 17:11:54,340 - root - INFO - Epoch 0; loss: 325.5534362792969; CER: 1.030862808227539; WER: 0.9998326301574707; val_loss: 299.7580871582031; val_CER: 1.0; val_WER: 0.9993944764137268
+2023-05-03 17:17:06,291 - root - INFO - Epoch 1; loss: 283.8373718261719; CER: 0.9998455047607422; WER: 0.9995236396789551; val_loss: 286.802490234375; val_CER: 1.0; val_WER: 0.9993944764137268
+2023-05-03 17:22:16,192 - root - INFO - Epoch 2; loss: 280.7059631347656; CER: 0.9997718930244446; WER: 0.9995236992835999; val_loss: 278.2065734863281; val_CER: 1.0; val_WER: 0.9993944764137268
+2023-05-03 17:27:27,950 - root - INFO - Epoch 3; loss: 265.57763671875; CER: 0.9852213263511658; WER: 0.9995485544204712; val_loss: 229.8329620361328; val_CER: 0.9657440185546875; val_WER: 0.9992832541465759
+2023-05-03 17:32:40,508 - root - INFO - Epoch 4; loss: 191.2483673095703; CER: 0.717769205570221; WER: 0.9867861866950989; val_loss: 136.1309051513672; val_CER: 0.5240421891212463; val_WER: 0.9348228573799133
+2023-05-03 17:37:53,929 - root - INFO - Epoch 5; loss: 127.41676330566406; CER: 0.44988271594047546; WER: 0.8806881904602051; val_loss: 87.23051452636719; val_CER: 0.3027750849723816; val_WER: 0.7511125206947327
+2023-05-03 17:43:06,835 - root - INFO - Epoch 6; loss: 94.1795883178711; CER: 0.30856412649154663; WER: 0.779148519039154; val_loss: 66.51579284667969; val_CER: 0.21337860822677612; val_WER: 0.6516991257667542
+2023-05-03 17:48:21,063 - root - INFO - Epoch 7; loss: 75.75112915039062; CER: 0.2408706247806549; WER: 0.7026150822639465; val_loss: 55.510414123535156; val_CER: 0.17431330680847168; val_WER: 0.5828774571418762
+2023-05-03 17:53:34,048 - root - INFO - Epoch 8; loss: 63.551551818847656; CER: 0.20077979564666748; WER: 0.6393470764160156; val_loss: 47.230918884277344; val_CER: 0.14900220930576324; val_WER: 0.5226587057113647
+2023-05-03 17:58:55,322 - root - INFO - Epoch 9; loss: 55.04158401489258; CER: 0.17412395775318146; WER: 0.5872321128845215; val_loss: 42.098079681396484; val_CER: 0.1327744573354721; val_WER: 0.47510603070259094
+2023-05-03 17:58:58,549 - tensorflow - WARNING - From C:\Users\dangn\Documents\NLPvenv\lib\site-packages\tf2onnx\tf_loader.py:711: extract_sub_graph (from tensorflow.python.framework.graph_util_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use `tf.compat.v1.graph_util.extract_sub_graph`
+2023-05-03 17:58:58,998 - tf2onnx.tfonnx - INFO - Using tensorflow=2.8.0, onnx=1.12.0, tf2onnx=1.12.0/a58786
+2023-05-03 17:58:58,998 - tf2onnx.tfonnx - INFO - Using opset <onnx, 13>
+2023-05-03 17:58:59,978 - tf2onnx.tf_utils - INFO - Computed 0 values for constant folding
+2023-05-03 17:58:59,981 - tf2onnx.tf_utils - INFO - Computed 0 values for constant folding
+2023-05-03 17:58:59,983 - tf2onnx.tf_utils - INFO - Computed 0 values for constant folding
+2023-05-03 17:58:59,989 - tf2onnx.tf_utils - INFO - Computed 0 values for constant folding
+2023-05-03 17:58:59,995 - tf2onnx.tf_utils - INFO - Computed 0 values for constant folding
+2023-05-03 17:59:00,001 - tf2onnx.tf_utils - INFO - Computed 0 values for constant folding
+2023-05-03 17:59:00,006 - tf2onnx.tf_utils - INFO - Computed 0 values for constant folding
+2023-05-03 17:59:00,008 - tf2onnx.tf_utils - INFO - Computed 0 values for constant folding
+2023-05-03 17:59:00,014 - tf2onnx.tf_utils - INFO - Computed 0 values for constant folding
+2023-05-03 17:59:00,016 - tf2onnx.tf_utils - INFO - Computed 0 values for constant folding
+2023-05-03 17:59:00,018 - tf2onnx.tf_utils - INFO - Computed 0 values for constant folding
+2023-05-03 17:59:00,025 - tf2onnx.tf_utils - INFO - Computed 0 values for constant folding
+2023-05-03 17:59:00,030 - tf2onnx.tf_utils - INFO - Computed 0 values for constant folding
+2023-05-03 17:59:00,033 - tf2onnx.tf_utils - INFO - Computed 0 values for constant folding
+2023-05-03 17:59:00,035 - tf2onnx.tf_utils - INFO - Computed 0 values for constant folding
+2023-05-03 17:59:00,038 - tf2onnx.tf_utils - INFO - Computed 0 values for constant folding
+2023-05-03 17:59:00,044 - tf2onnx.tf_utils - INFO - Computed 0 values for constant folding
+2023-05-03 17:59:00,050 - tf2onnx.tf_utils - INFO - Computed 0 values for constant folding
+2023-05-03 17:59:00,053 - tf2onnx.tf_utils - INFO - Computed 0 values for constant folding
+2023-05-03 17:59:00,058 - tf2onnx.tf_utils - INFO - Computed 0 values for constant folding
+2023-05-03 17:59:00,675 - tf2onnx.tf_utils - INFO - Computed 0 values for constant folding
+2023-05-03 17:59:01,913 - tf2onnx.optimizer - INFO - Optimizing ONNX model
+2023-05-03 17:59:03,296 - tf2onnx.optimizer - INFO - After optimization: BatchNormalization -2 (2->0), Cast -22 (39->17), Concat -21 (40->19), Const -254 (293->39), Expand -15 (20->5), Gather +1 (4->5), Identity -54 (54->0), ReduceProd -2 (4->2), Shape -5 (13->8), Slice -5 (21->16), Squeeze -11 (21->10), Transpose -12 (23->11), Unsqueeze -60 (68->8)

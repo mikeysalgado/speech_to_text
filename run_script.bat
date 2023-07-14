@@ -1,0 +1,1 @@
+SpeechToTextVenv\Scripts\activate && python ./sr_script.py
